@@ -1,0 +1,14 @@
+[
+  {
+    "automation_name": "Name Provided for the automation",
+    "option_error_message": "welcome_new_subscriber or respond_to_subscriber_changes",
+    "automation_choice": "autoresponder",
+    "mail_type": "welcome_new_subscriber"
+  },
+  {
+    "automation_name": "Name Provided for the automation",
+    "option_error_message": "welcome_new_subscriber or respond_to_subscriber_changes",
+    "automation_choice": "autoresponder",
+    "mail_type": "respond_to_subscriber_changes"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "automation_name": "Name Provided for the automation",
+    "option_error_message": "thanks_first_customer or enable_order_notifications or turn_on_abandoned_cart_email or retarget_visitors",
+    "automation_choice": "ecommerce_and_marketing",
+    "mail_type": "thanks_first_customer"
+  },
+  {
+    "automation_name": "Name Provided for the automation",
+    "option_error_message": "thanks_first_customer or enable_order_notifications or turn_on_abandoned_cart_email or retarget_visitors",
+    "automation_choice": "ecommerce_and_marketing",
+    "mail_type": "enable_order_notifications"
+  },
+  {
+    "automation_name": "Name Provided for the automation",
+    "option_error_message": "thanks_first_customer or enable_order_notifications or turn_on_abandoned_cart_email or retarget_visitors",
+    "automation_choice": "turn_on_abandoned_cart_email",
+    "mail_type": "thanks_first_customer"
+  },
+  {
+    "automation_name": "Name Provided for the automation",
+    "option_error_message": "thanks_first_customer or enable_order_notifications or turn_on_abandoned_cart_email or retarget_visitors",
+    "automation_choice": "turn_on_abandoned_cart_email",
+    "mail_type": "retarget_visitors"
+  }
+]

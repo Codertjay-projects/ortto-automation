@@ -1,0 +1,25 @@
+[
+  {
+    "automation_name": "Name Provided for the automation",
+    "automation_choice": "autoresponder, ecommerce_and_marketing, blank",
+    "option": {
+      "mail_type": "welcome_new_subscriber or respond_to_subscriber_changes"
+    }
+  },
+  {
+    "automation_name": "Name Provided for the automation",
+    "automation_choice": "ecommerce_and_marketing",
+    "option": {
+      "mail_type": "thanks_first_customer or enable_order_notifications or turn_on_abandoned_cart_email or retarget_visitors"
+    }
+  },
+  {
+    "automation_name": "Name Provided for the automation",
+    "automation_choice": "blank( no automation choice provided)",
+    "option": {
+      "mail_type": ""
+    }
+  }
+]
+
+
